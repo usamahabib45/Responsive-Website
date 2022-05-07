@@ -1,1 +1,1 @@
-Responsive Web Design Website
+Responsive Web Design Website built using HTML, CSS and JAVASCRIPT. It contains Header, main footer. Different sections such as Home, about, resume, portfolio and contacts. Smooth scrolling in each section.
